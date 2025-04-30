@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="sudokuC" targetName="sudokuC" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2b3835c-487f-490d-b5e9-60346cd39a8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.localized" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2448.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2449.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2450.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2451.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2452.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2453.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2454.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2455.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2456.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2457.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2458.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2459.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2460.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/IMG_2461.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/SKIS-baza.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SKIS/att.T67zXRpLAGUxO8Cg7BjfIyUVJeM0Kb8VuHEgU-gsh8M.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/370090913_341671565117189_3916205152653684392_n.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/370196168_1018642032754223_8320774218373587153_n.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/370294763_170461166090770_6739662276287426075_n.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/376575026_360038656441188_7383999117320372891_n.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/386868776_360178039727737_7837728901667292389_n.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/IMG_2043.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/IMG_2044.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/IMG_2170.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/IMG_2171.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/WDSI-kolos.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WSTEP DO STUD INFO/image.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../private/135587204Z.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../private/skan świadectwa dojrzałości.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../private/ŚWIADECTWO DOJRZAŁOŚCI - SKAN.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wloski/L'italiano all' universita 1 , A1 A2 , 1do1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wloski/Odpowiedź_ustna_Semestr_1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wloski/Odpowiedź_ustna_Semestr_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wloski/Unita'_5_revisione.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wloski/Zrzut ekranu 2024-10-17 o 12.09.58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wloski/Zrzut ekranu 2024-10-17 o 12.41.47.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="3.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2wOt2uFIK8CSMWIgtnURI4vaDCN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.sudokuC.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sudokuC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="sudokuC" TARGET_NAME="sudokuC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="sudokuC" RUN_TARGET_NAME="sudokuC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2b3835c-487f-490d-b5e9-60346cd39a8f" name="Changes" comment="" />
+      <created>1745924243828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745924243828</updated>
+      <workItem from="1745924245023" duration="21309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

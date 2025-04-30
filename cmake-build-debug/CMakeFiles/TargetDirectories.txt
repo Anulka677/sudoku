@@ -1,0 +1,3 @@
+/Users/ania/Desktop/sudokuC/cmake-build-debug/CMakeFiles/sudokuC.dir
+/Users/ania/Desktop/sudokuC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ania/Desktop/sudokuC/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -65,7 +65,7 @@ The initial implementation had an issue where selecting Easy difficulty for 4x4 
 <img width="1440" alt="Zrzut ekranu 2025-04-30 o 16 26 03" src="https://github.com/user-attachments/assets/af97f942-ec29-4676-b1df-82f94c75a4db" />
 
 
-
+![IMG_6642](https://github.com/user-attachments/assets/eb76cdef-5d80-4914-86d0-56fcec740aeb)
 
 
 

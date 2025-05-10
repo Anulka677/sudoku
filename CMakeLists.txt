@@ -9,4 +9,6 @@ add_executable(sudokuC main.c
         menu.h
         menu.c
         file_io.h
-        file_io.c)
+        file_io.c
+        sa_sudoku.h
+        sa_sudoku.c)

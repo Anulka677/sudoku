@@ -37,6 +37,7 @@ void show_game_menu(SudokuBoard* board) {
     printf("3. Save game\n");
     printf("4. Show statistics\n");
     printf("5. Return to Main Menu\n");
+    printf("6. Solve Puzzle\n");
     printf("Choose an option: ");
 }
 
@@ -46,4 +47,12 @@ void show_instructions(void) {
     printf("2. Each number can appear only once in each row, column and box\n");
     printf("3. To make a move, select the cell and enter the number\n");
     printf("4. Have fun\n");
+}
+
+void show_solver_menu(void) {
+    printf("\n*** SUDOKU SOLVER ***\n");
+    printf("1. Solve using Backtracking\n");
+    printf("2. Solve using Simulated Annealing\n");
+    printf("3. Back to Game Menu\n");
+    printf("Choose an option: ");
 }

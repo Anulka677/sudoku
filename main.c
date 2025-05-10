@@ -1,3 +1,4 @@
+#include "sa_sudoku.h"
 #include "sudoku.h"
 #include "menu.h"
 #include "file_io.h"
@@ -68,7 +69,6 @@ void play_game(SudokuBoard* board) {
 
     while (1) {
         system("clear || cls");
-        print_board(board);
         show_game_menu(board);
 
         if (fgets(input, sizeof(input), stdin) == NULL || sscanf(input, "%d", &choice) != 1) {
@@ -153,11 +153,63 @@ void play_game(SudokuBoard* board) {
             case 5:
                 return;
 
+            case 6:
+                solve_puzzle_option(board);
+                break;
+
             default:
                 printf("Invalid choice.\n");
         }
     }
 }
+
+void solve_puzzle_option(SudokuBoard* board) {
+    int choice;
+    char input[100];
+
+    while (1) {
+        system("clear || cls");
+        show_solver_menu();
+
+        if (fgets(input, sizeof(input), stdin) == NULL || sscanf(input, "%d", &choice) != 1) {
+            printf("Invalid input. Please enter a number.\n");
+            continue;
+        }
+
+        switch (choice) {
+            case 1:
+                if (solve_board(board, 0, 0)) {
+                    printf("Sudoku solved using backtracking!\n");
+                    for (int i = 0; i < board->size; i++) {
+                        for (int j = 0; j < board->size; j++) {
+                            board->player_board[i][j] = board->solution[i][j];
+                        }
+                    }
+                } else {
+                    printf("Failed to solve the Sudoku!\n");
+                }
+            print_board(board);
+            return;
+
+            case 2:
+                printf("Solving using Simulated Annealing\n");
+            if (solve_sudoku_sa(board)) {
+                printf("Sudoku solved using Simulated Annealing!\n");
+            } else {
+                printf("Best solution found:\n");
+            }
+            print_board(board);
+            return;
+
+            case 3:
+                return;
+
+            default:
+                printf("Invalid choice.\n");
+        }
+    }
+}
+
 
 int main(void) {
     srand(time(0));

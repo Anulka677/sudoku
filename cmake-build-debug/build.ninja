@@ -73,6 +73,12 @@ build CMakeFiles/sudokuC.dir/file_io.c.o: C_COMPILER__sudokuC_unscanned_Debug /U
   OBJECT_DIR = CMakeFiles/sudokuC.dir
   OBJECT_FILE_DIR = CMakeFiles/sudokuC.dir
 
+build CMakeFiles/sudokuC.dir/sa_sudoku.c.o: C_COMPILER__sudokuC_unscanned_Debug /Users/ania/Desktop/sudokuC/sa_sudoku.c || cmake_object_order_depends_target_sudokuC
+  DEP_FILE = CMakeFiles/sudokuC.dir/sa_sudoku.c.o.d
+  FLAGS = -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/sudokuC.dir
+  OBJECT_FILE_DIR = CMakeFiles/sudokuC.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target sudokuC
@@ -81,7 +87,7 @@ build CMakeFiles/sudokuC.dir/file_io.c.o: C_COMPILER__sudokuC_unscanned_Debug /U
 #############################################
 # Link the executable sudokuC
 
-build sudokuC: C_EXECUTABLE_LINKER__sudokuC_Debug CMakeFiles/sudokuC.dir/main.c.o CMakeFiles/sudokuC.dir/sudoku.c.o CMakeFiles/sudokuC.dir/menu.c.o CMakeFiles/sudokuC.dir/file_io.c.o
+build sudokuC: C_EXECUTABLE_LINKER__sudokuC_Debug CMakeFiles/sudokuC.dir/main.c.o CMakeFiles/sudokuC.dir/sudoku.c.o CMakeFiles/sudokuC.dir/menu.c.o CMakeFiles/sudokuC.dir/file_io.c.o CMakeFiles/sudokuC.dir/sa_sudoku.c.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/sudokuC.dir
   POST_BUILD = :

@@ -38,5 +38,7 @@ void increment_move_count(SudokuBoard* board);
 void print_stats(const SudokuBoard* board);
 bool is_valid_placement(int** grid, int size, int box_size, int row, int col, int num);
 bool solve_board(SudokuBoard* board, int row, int col);
+void solve_puzzle_option(SudokuBoard* board);
+bool solve_sudoku_sa(SudokuBoard* board);
 
 #endif
